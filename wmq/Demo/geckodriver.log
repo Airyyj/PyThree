@@ -1,0 +1,438 @@
+1491377204323	geckodriver	INFO	Listening on 127.0.0.1:49953
+1491377206349	mozprofile::profile	INFO	Using profile path C:\Users\win10\AppData\Local\Temp\rust_mozprofile.E0oooqpmTOJR
+1491377206349	geckodriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491377206364	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49966
+1491377207237	Marionette	INFO	Listening on port 49966
+1491377207810	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491377241657	geckodriver	INFO	Listening on 127.0.0.1:50087
+1491377243720	mozprofile::profile	INFO	Using profile path C:\Users\win10\AppData\Local\Temp\rust_mozprofile.WAr40q2YckvW
+1491377243720	geckodriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491377243751	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50098
+1491377244571	Marionette	INFO	Listening on port 50098
+1491377245116	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491377249460	Marionette	INFO	New connections will no longer be accepted
+[Child 6716] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1491377306513	geckodriver	INFO	Listening on 127.0.0.1:50181
+1491377308575	mozprofile::profile	INFO	Using profile path C:\Users\win10\AppData\Local\Temp\rust_mozprofile.pr7nmDVmqtiU
+1491377308591	geckodriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491377308607	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50187
+1491377309407	Marionette	INFO	Listening on port 50187
+1491377309903	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491377315970	Marionette	INFO	New connections will no longer be accepted
+[Child 7720] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 512
+[Child 7720] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1491381026131	geckodriver	INFO	Listening on 127.0.0.1:52976
+1491381028186	mozprofile::profile	INFO	Using profile path C:\Users\win10\AppData\Local\Temp\rust_mozprofile.Kdr87FTySgHi
+1491381028201	geckodriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491381028201	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52984
+1491381029067	Marionette	INFO	Listening on port 52984
+1491381029661	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+1491381033782	Marionette	INFO	New connections will no longer be accepted
+[Child 10828] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1491381178714	geckodriver	INFO	Listening on 127.0.0.1:53053
+1491381180802	mozprofile::profile	INFO	Using profile path C:\Users\win10\AppData\Local\Temp\rust_mozprofile.xnCtZ9YfdrHU
+1491381180802	geckodriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491381180833	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53060
+1491381181730	Marionette	INFO	Listening on port 53060
+1491381182283	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+[Parent 10420] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1491381276097	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+odriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491381321658	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53182
+1491381322451	Marionette	INFO	Listening on port 53182
+1491381322923	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+1491381326386	Marionette	INFO	New connections will no longer be accepted
+[Child 11068] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1491381336627	geckodriver	INFO	Listening on 127.0.0.1:53230
+1491381338682	mozprofile::profile	INFO	Using profile path C:\Users\win10\AppData\Local\Temp\rust_mozprofile.7xuNGHmT0lRG
+1491381338682	geckodriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491381338698	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53236
+1491381339454	Marionette	INFO	Listening on port 53236
+1491381340203	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+[Parent 12008] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1491381420925	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1491381467079	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+6158	Marionette	INFO	Listening on port 53301
+1491381386735	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+[Parent 11520] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1491381467485	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1491381495995	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1491382215224	geckodriver	INFO	Listening on 127.0.0.1:53803
+1491382217256	mozprofile::profile	INFO	Using profile path C:\Users\win10\AppData\Local\Temp\rust_mozprofile.FFt8umB7ytxd
+1491382217260	geckodriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491382217278	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53810
+1491382218264	Marionette	INFO	Listening on port 53810
+1491382218808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+1491382322527	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+382276972	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53928
+1491382278449	Marionette	INFO	Listening on port 53928
+1491382279080	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491385799126	geckodriver	INFO	Listening on 127.0.0.1:56954
+1491385801214	mozprofile::profile	INFO	Using profile path C:\Users\win10\AppData\Local\Temp\rust_mozprofile.GC5FViH86Oya
+1491385801217	geckodriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491385801235	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56962
+1491385802201	Marionette	INFO	Listening on port 56962
+1491385802738	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491385806038	Marionette	INFO	New connections will no longer be accepted
+[Child 3908] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1491385839224	geckodriver	INFO	Listening on 127.0.0.1:57039
+1491385841250	mozprofile::profile	INFO	Using profile path C:\Users\win10\AppData\Local\Temp\rust_mozprofile.FIhGYhCGRqCU
+1491385841254	geckodriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491385841271	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57046
+1491385842236	Marionette	INFO	Listening on port 57046
+1491385842912	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491385845557	Marionette	INFO	New connections will no longer be accepted
+[Child 16628] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1491385919458	geckodriver	INFO	Listening on 127.0.0.1:57138
+1491385921515	mozprofile::profile	INFO	Using profile path C:\Users\win10\AppData\Local\Temp\rust_mozprofile.tkAJE3cygUW0
+1491385921521	geckodriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491385921540	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57146
+1491385922505	Marionette	INFO	Listening on port 57146
+1491385923019	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491385925545	Marionette	INFO	New connections will no longer be accepted
+[Child 16676] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1491386025594	geckodriver	INFO	Listening on 127.0.0.1:57247
+1491386027677	mozprofile::profile	INFO	Using profile path C:\Users\win10\AppData\Local\Temp\rust_mozprofile.7vuBziadrDoC
+1491386027681	geckodriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491386027696	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57254
+1491386028508	Marionette	INFO	Listening on port 57254
+1491386029054	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491386032052	Marionette	INFO	New connections will no longer be accepted
+[Child 16964] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1491386095980	geckodriver	INFO	Listening on 127.0.0.1:57340
+1491386098012	mozprofile::profile	INFO	Using profile path C:\Users\win10\AppData\Local\Temp\rust_mozprofile.q2vuh83GhY9Q
+1491386098017	geckodriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491386098038	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57347
+1491386098878	Marionette	INFO	Listening on port 57347
+1491386099346	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491386102143	Marionette	INFO	New connections will no longer be accepted
+[Child 5220] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1491386252864	geckodriver	INFO	Listening on 127.0.0.1:57615
+1491386254922	mozprofile::profile	INFO	Using profile path C:\Users\win10\AppData\Local\Temp\rust_mozprofile.WMoUGR2MDHF9
+1491386254930	geckodriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491386254955	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57624
+1491386255940	Marionette	INFO	Listening on port 57624
+1491386256426	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491386258904	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=HT&json=1&p=3&sid=1428_19035_21102_17001_20930&req=2&csor=2&pwd=H&cb=jQuery1102040821852777585443_1491386258284&_=1491386258287, line 1: TypeError: jQuery1102040821852777585443_1491386258284 is not a function
+[Child 13604] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 512
+[Child 13604] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1491386342508	geckodriver	INFO	Listening on 127.0.0.1:57748
+1491386344568	mozprofile::profile	INFO	Using profile path C:\Users\win10\AppData\Local\Temp\rust_mozprofile.U7yizJijz29j
+1491386344573	geckodriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491386344586	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57757
+1491386345570	Marionette	INFO	Listening on port 57757
+1491386346069	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491386348805	Marionette	INFO	New connections will no longer be accepted
+[Child 16680] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1491386611682	geckodriver	INFO	Listening on 127.0.0.1:58116
+1491386613713	mozprofile::profile	INFO	Using profile path C:\Users\win10\AppData\Local\Temp\rust_mozprofile.JMKMdUpyT0Rm
+1491386613717	geckodriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491386613732	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58122
+1491386614711	Marionette	INFO	Listening on port 58122
+1491386615197	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491386617958	Marionette	INFO	New connections will no longer be accepted
+[Child 16856] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1491386692836	geckodriver	INFO	Listening on 127.0.0.1:58223
+1491386694863	mozprofile::profile	INFO	Using profile path C:\Users\win10\AppData\Local\Temp\rust_mozprofile.7gVONaL4XjAJ
+1491386694868	geckodriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491386694881	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58230
+1491386695883	Marionette	INFO	Listening on port 58230
+1491386696375	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=H&json=1&p=3&sid=1425_21110_22175&req=2&csor=1&cb=jQuery110208201023849190305_1491386698381&_=1491386698383, line 1: TypeError: jQuery110208201023849190305_1491386698381 is not a function
+1491386698970	Marionette	INFO	New connections will no longer be accepted
+[Child 13256] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1491387678516	geckodriver	INFO	Listening on 127.0.0.1:58964
+1491387680538	mozprofile::profile	INFO	Using profile path C:\Users\win10\AppData\Local\Temp\rust_mozprofile.MJLWjb8jpbHk
+1491387680542	geckodriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491387680559	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58973
+1491387681544	Marionette	INFO	Listening on port 58973
+1491387682058	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+1491387690728	Marionette	INFO	New connections will no longer be accepted
+[Child 17716] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1491387690995	geckodriver	INFO	Listening on 127.0.0.1:59058
+1491387693012	mozprofile::profile	INFO	Using profile path C:\Users\win10\AppData\Local\Temp\rust_mozprofile.mPiqVjyj0AKn
+1491387693017	geckodriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491387693033	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59065
+1491387693995	Marionette	INFO	Listening on port 59065
+1491387694465	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+1491387699754	Marionette	INFO	New connections will no longer be accepted
+[Child 17472] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1491387699981	geckodriver	INFO	Listening on 127.0.0.1:59115
+1491387702039	mozprofile::profile	INFO	Using profile path C:\Users\win10\AppData\Local\Temp\rust_mozprofile.taEIPiMiGAlQ
+1491387702065	geckodriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491387702079	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59124
+1491387702908	Marionette	INFO	Listening on port 59124
+1491387703534	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+1491387708715	Marionette	INFO	New connections will no longer be accepted
+[Child 17500] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1491396389146	geckodriver	INFO	Listening on 127.0.0.1:59000
+1491396391187	mozprofile::profile	INFO	Using profile path C:\Users\win10\AppData\Local\Temp\rust_mozprofile.aHRYi5S4mKQf
+1491396391190	geckodriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491396391209	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59009
+1491396392191	Marionette	INFO	Listening on port 59009
+1491396392693	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+1491396405855	Marionette	INFO	New connections will no longer be accepted
+[Child 22068] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x900001,name=PLayer::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x900001,name=PLayer::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x900001,name=PLayer::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+1491396406215	geckodriver	INFO	Listening on 127.0.0.1:59085
+1491396408253	mozprofile::profile	INFO	Using profile path C:\Users\win10\AppData\Local\Temp\rust_mozprofile.8tgN951aoohC
+1491396408258	geckodriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491396408275	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59094
+1491396409061	Marionette	INFO	Listening on port 59094
+1491396409560	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+1491396415016	Marionette	INFO	New connections will no longer be accepted
+[Child 26420] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1491396415323	geckodriver	INFO	Listening on 127.0.0.1:59143
+1491396417388	mozprofile::profile	INFO	Using profile path C:\Users\win10\AppData\Local\Temp\rust_mozprofile.23QMESlYpQQx
+1491396417396	geckodriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491396417413	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59150
+1491396418220	Marionette	INFO	Listening on port 59150
+1491396418733	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+1491396423969	Marionette	INFO	New connections will no longer be accepted
+[Child 25608] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1491397357878	geckodriver	INFO	Listening on 127.0.0.1:59711
+1491397359902	mozprofile::profile	INFO	Using profile path C:\Users\win10\AppData\Local\Temp\rust_mozprofile.UL3MqPveHCtZ
+1491397359906	geckodriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491397359923	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59718
+1491397360792	Marionette	INFO	Listening on port 59718
+1491397361304	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+1491397369910	Marionette	INFO	New connections will no longer be accepted
+[Child 13352] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 512
+[Child 13352] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1491397370271	geckodriver	INFO	Listening on 127.0.0.1:59794
+1491397372312	mozprofile::profile	INFO	Using profile path C:\Users\win10\AppData\Local\Temp\rust_mozprofile.B7wPnulWu1kh
+1491397372316	geckodriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491397372333	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59801
+1491397373232	Marionette	INFO	Listening on port 59801
+1491397373783	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+1491397379414	Marionette	INFO	New connections will no longer be accepted
+[Child 23912] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1491397379710	geckodriver	INFO	Listening on 127.0.0.1:59845
+1491397381734	mozprofile::profile	INFO	Using profile path C:\Users\win10\AppData\Local\Temp\rust_mozprofile.3dsy6aqHltUG
+1491397381739	geckodriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491397381756	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59852
+1491397382637	Marionette	INFO	Listening on port 59852
+1491397383146	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+1491397388421	Marionette	INFO	New connections will no longer be accepted
+[Child 9244] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1491478071179	geckodriver	INFO	Listening on 127.0.0.1:49621
+1491478073246	mozprofile::profile	INFO	Using profile path C:\Users\win10\AppData\Local\Temp\rust_mozprofile.RWvv3qwuhcAt
+1491478073246	geckodriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491478073261	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49630
+1491478074104	Marionette	INFO	Listening on port 49630
+1491478074567	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+1491478083591	Marionette	INFO	New connections will no longer be accepted
+[Child 87672] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1491478083884	geckodriver	INFO	Listening on 127.0.0.1:49718
+1491478085926	mozprofile::profile	INFO	Using profile path C:\Users\win10\AppData\Local\Temp\rust_mozprofile.LLK9Zctm4deD
+1491478085926	geckodriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491478085957	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49727
+1491478086727	Marionette	INFO	Listening on port 49727
+1491478087301	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+1491478092315	Marionette	INFO	New connections will no longer be accepted
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 88680] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1491478092545	geckodriver	INFO	Listening on 127.0.0.1:49782
+1491478094570	mozprofile::profile	INFO	Using profile path C:\Users\win10\AppData\Local\Temp\rust_mozprofile.TjsnshYXrFV6
+1491478094570	geckodriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491478094585	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49791
+1491478095372	Marionette	INFO	Listening on port 49791
+1491478095883	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+1491478100786	Marionette	INFO	New connections will no longer be accepted
+[Child 88396] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1491556240758	geckodriver	INFO	Listening on 127.0.0.1:55224
+1491556242821	mozprofile::profile	INFO	Using profile path C:\Users\win10\AppData\Local\Temp\rust_mozprofile.dBv1unfXNW4f
+1491556242824	geckodriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491556242852	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55232
+1491556243740	Marionette	INFO	Listening on port 55232
+1491556244359	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+1491556253822	Marionette	INFO	New connections will no longer be accepted
+[Child 119508] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 512
+[Child 119508] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1491556254208	geckodriver	INFO	Listening on 127.0.0.1:55300
+1491556256228	mozprofile::profile	INFO	Using profile path C:\Users\win10\AppData\Local\Temp\rust_mozprofile.bzdtZRIB3O5b
+1491556256233	geckodriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491556256258	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55308
+1491556257116	Marionette	INFO	Listening on port 55308
+1491556257650	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+1491556263360	Marionette	INFO	New connections will no longer be accepted
+[Parent 107612] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 119980] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1491556263680	geckodriver	INFO	Listening on 127.0.0.1:55358
+1491556265719	mozprofile::profile	INFO	Using profile path C:\Users\win10\AppData\Local\Temp\rust_mozprofile.7BY0liu9liyR
+1491556265724	geckodriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491556265751	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55365
+1491556266656	Marionette	INFO	Listening on port 55365
+1491556267247	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+1491556273359	Marionette	INFO	New connections will no longer be accepted
+[Child 119688] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1491733180103	geckodriver	INFO	Listening on 127.0.0.1:54916
+1491733182202	mozprofile::profile	INFO	Using profile path C:\Users\win10\AppData\Local\Temp\rust_mozprofile.wMAzeJG3Kjoa
+1491733182206	geckodriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491733182244	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54922
+1491733183176	Marionette	INFO	Listening on port 54922
+1491733183740	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+1491733191783	Marionette	INFO	New connections will no longer be accepted
+[Child 198060] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1491733192133	geckodriver	INFO	Listening on 127.0.0.1:54984
+1491733194174	mozprofile::profile	INFO	Using profile path C:\Users\win10\AppData\Local\Temp\rust_mozprofile.0qqnA16DCBiv
+1491733194179	geckodriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491733194214	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54991
+1491733195062	Marionette	INFO	Listening on port 54991
+1491733195597	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+1491733200534	Marionette	INFO	New connections will no longer be accepted
+[Child 199356] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1491733200799	geckodriver	INFO	Listening on 127.0.0.1:55039
+1491733202822	mozprofile::profile	INFO	Using profile path C:\Users\win10\AppData\Local\Temp\rust_mozprofile.lOnwdbLUhfaG
+1491733202827	geckodriver::marionette	INFO	Starting browser D:\ProgramFile\Firefox\firefox.exe with args []
+1491733202865	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55046
+1491733203809	Marionette	INFO	Listening on port 55046
+1491733204321	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://passport.baidu.com/static/passpc-base/js/dv/3.min.js, line 1: unreachable code after return statement
+1491733209300	Marionette	INFO	New connections will no longer be accepted
+[Child 199228] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
